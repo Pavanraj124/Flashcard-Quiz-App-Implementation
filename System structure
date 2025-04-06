@@ -1,0 +1,11 @@
+flashcard-quiz-app/
+├── public/
+│   ├── index.html
+│   └── styles.css
+├── src/
+│   ├── app.js
+│   ├── flashcard.js
+│   └── quiz.js
+├── README.md
+├── package.json
+└── report.md
